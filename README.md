@@ -1,19 +1,19 @@
 # Rania Asaad Abdallah Fares
-**Mechatronics & Robotics Engineering | Prospective Graduate Student (2027/2028)**
+** Mechanical & Mechatronics Engineering | Prospective Graduate Student (July 2027)**
 
-I am a senior engineering student at the University of Hertfordshire (UH-GAF) graduating in July 2027. My work bridges mechanical design, embedded systems, and intelligent control, with a strong focus on hands-on electromechanical prototyping and biomimetics. I am actively seeking research-focused Master's programs in Robotics, Mechatronics, Systems & Control, and Neuroengineering. 
+I am a senior engineering student at the University of Hertfordshire (UH-GAF) graduating in July 2027. My work bridges mechanical design, intelligent control, and robotics with a strong focus on hands-on electromechanical prototyping and biomimetics. I am actively seeking research-focused Master's programs in Robotics, Mechatronics, Systems & Control, and Neuroengineering. 
 
-📫 **Reach me at:** [Insert Email] | [Insert LinkedIn URL]
+📫 **Reach me at:** [rania.asaad.abdallah.fares@gmail.com] | [(https://www.linkedin.com/in/rania-fares-037860206/)]
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 * **CAD, FEA & CFD:** CATIA V5, SolidWorks, Fusion 360, AutoCAD, ANSYS Workbench, ANSYS Fluent
 * **Electronics & Simulation:** KiCad EDA, Fritzing, Proteus, Wokwi
-* **Programming & Software:** C++, Python, MATLAB, Simulink, OpenCV, SQLite, LaTeX
-* **Manufacturing & Prototyping:** 3D Printing (PLA/TPU), CNC Machining, Laser Cutting, Manual Lathe, Silicone Casting (1:1), Tendon-Driven Routing
-* **Microcontrollers & Hardware:** Arduino (Mega 2560), ESP32-CAM, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers
+* **Programming & Software:** Python, MATLAB, Simulink, C++, Arduino, OpenCV, LaTeX
+* **Manufacturing & Prototyping:** Silicone Casting, Tendon-Driven Routing, 3D Printing, CNC Machining, Laser Cutting, Manual Lathe
+* **Microcontrollers & Hardware:** Arduino (Mega 2560 & UNO), ESP32, ESP32-CAM, IMU, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers
 
 ---
 
