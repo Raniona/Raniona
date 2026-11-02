@@ -25,7 +25,7 @@
 ### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand (Ongoing Individual Thesis Research)
 <a href="LINK_TO_REPO_OR_PAPER"><img src="assets/Robotic Hand CAD.png" width="300" align="right" alt="Robotic Hand CAD"></a>
 
-**Skills:** `Yale OpenHand Architecture` `Tactile Feedback Control` `Biomimetics` `Sim-to-Real Validation` `Silicon Casting` `3D Printing` `Robotic Arm Integration` 
+**Skills:** `Yale OpenHand Architecture` `Tactile Feedback Control` `Biomimetics` `Sim-to-Real Validation` `Silicon Casting` `3D Printing` `Robotic Arm Integration` `SOLIDWORKS` `ANSYS` 
 
 **What I'm doing:**
 - Engineering a biomimetic soft-rigid manipulator intended for academic publication, specifically designed for safe, adaptive physical manipulation in dynamic, unstructured environments.
@@ -36,15 +36,19 @@
 
 ---
 ### 🚙 Vision-Guided Inverted-Tricycle Mobile Robot with Active Suspension (Ongoing Research)
-<a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Mobile Robot Prototype"></a>
+
+<p align="center">
+  <img src="LINK_TO_IMAGE_1.jpg" width="48%" alt="Mobile Robot Prototype 1">
+  <img src="LINK_TO_IMAGE_2.jpg" width="48%" alt="Mobile Robot Prototype 2">
+</p>
 
 **Skills:** `MATLAB` `Mathematical, Physical, Data-Driven Modeling` `Control Theory (PID)` `Image Processing` `Technical Documentation`
 
 **What I did:**
-* Co-authoring a research paper on a vision-based line-following robot, featuring a novel inverted "toktok" (auto-rickshaw) tricycle kinematic design with a rear caster wheel[cite: 5].
-* Integrating a custom suspension system utilizing a leadscrew and DC motor mechanism to manage payload variations (1.5 to 3.0 kg) and reject external disturbances on various floor types and slopes[cite: 5].
-* Leading the programming and control systems architecture, exclusively utilizing MATLAB and embedded systems (bypassing ROS) to process RGB camera data and execute robust speed and trajectory tracking[cite: 5]. 
-* Managing comprehensive technical documentation for the research publication, detailing mathematical modeling, controller tuning, and real hardware validation[cite: 5].
+- Co-authoring a research paper on a vision-based line-following robot, featuring a novel inverted "toktok" (auto-rickshaw) tricycle kinematic design with a rear caster wheel.
+- Integrating a custom suspension system utilizing a leadscrew and DC motor mechanism to manage payload variations (1.5 to 3.0 kg) and reject external disturbances on various floor types (sand, water, oil) and slopes.
+- Leading the programming and control systems architecture, utilizing MATLAB and embedded systems to process ESP32-CAM data and execute robust speed and trajectory tracking. 
+- Managing comprehensive technical documentation for the research publication, detailing mathematical modeling, controller tuning, and real hardware validation.
 <br clear="both"/>
 
 ---
