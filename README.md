@@ -96,18 +96,29 @@
 <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="35" title="OpenCV" alt="OpenCV" /> &nbsp;
 <img src="https://cdn.simpleicons.org/latex/008080" height="35" title="LaTeX" alt="LaTeX" />
 
+
 **Electronics & Microcontrollers:**
 <br>
 <img src="https://cdn.simpleicons.org/kicad/314CB6" height="35" title="KiCad EDA" alt="KiCad" /> &nbsp;
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="35" title="Arduino (Mega 2560 & UNO)" alt="Arduino" /> &nbsp;
 <img src="https://cdn.simpleicons.org/espressif/E7352C" height="35" title="ESP32 & ESP32-CAM" alt="ESP32" /> 
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="35" title="VS Code" alt="VS Code" /> &nbsp;
+<img src="https://cdn.simpleicons.org/kicad/314CB6" height="35" title="KiCad EDA" alt="KiCad" /> &nbsp;
+<img src="https://img.shields.io/badge/Proteus-00599C?style=for-the-badge" height="35" title="Proteus" alt="Proteus" /> &nbsp;
 
 **Hardware & Simulation Components:**
-* Fritzing, Proteus, Wokwi, PyBullet, Robotics Toolbox (Peter Corke)
+* Fritzing, Wokwi, Robotics Toolbox (Peter Corke)
 * IMU, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers, Debot (educational robot)
 
 **Robotics & Control:**
-* Forward/Inverse Kinematics (D-H parameters), Dynamics (Lagrangian), Trajectory Planning, State-Space Modeling, PID Control, System Parameter Identification, Sim-to-Real validation
+<br>
+<img src="https://img.shields.io/badge/Kinematics_%26_Dynamics-00599C?style=flat-square" height="25" alt="Kinematics & Dynamics" /> &nbsp;
+<img src="https://img.shields.io/badge/Trajectory_Planning-00599C?style=flat-square" height="25" alt="Trajectory Planning" /> &nbsp;
+<img src="https://img.shields.io/badge/State--Space_Modeling-00599C?style=flat-square" height="25" alt="State-Space Modeling" /> &nbsp;
+<img src="https://img.shields.io/badge/PID_Control-00599C?style=flat-square" height="25" alt="PID Control" /> &nbsp;
+<img src="https://img.shields.io/badge/Parameter_Identification-00599C?style=flat-square" height="25" alt="Parameter Identification" /> &nbsp;
+<img src="https://img.shields.io/badge/Sim--to--Real_Validation-00599C?style=flat-square" height="25" alt="Sim-to-Real Validation" />
+<img src="https://img.shields.io/badge/Debot_Robot-4A4A4A?style=for-the-badge" height="35" title="Debot Educational Robot" alt="Debot" /> &nbsp;
 
 **Manufacturing & Prototyping:**
 * Silicone Casting, Tendon-Driven Routing, 3D Printing (Bambu Lab, Cura, PLA/TPU), CNC Machining, Laser Cutting, Manual Lathe, Composite Fabrication (Epoxy-reinforced fiberglass via ASTM standards)
