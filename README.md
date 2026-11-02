@@ -102,13 +102,20 @@
 <img src="https://cdn.simpleicons.org/kicad/314CB6" height="35" title="KiCad EDA" alt="KiCad" /> &nbsp;
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="35" title="Arduino (Mega 2560 & UNO)" alt="Arduino" /> &nbsp;
 <img src="https://cdn.simpleicons.org/espressif/E7352C" height="35" title="ESP32 & ESP32-CAM" alt="ESP32" /> 
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="35" title="VS Code" alt="VS Code" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="35" title="VS Code" alt="VS Code" /> &nbsp;
 <img src="https://cdn.simpleicons.org/kicad/314CB6" height="35" title="KiCad EDA" alt="KiCad" /> &nbsp;
 <img src="https://img.shields.io/badge/Proteus-00599C?style=for-the-badge" height="35" title="Proteus" alt="Proteus" /> &nbsp;
 
 **Hardware & Simulation Components:**
-* Fritzing, Wokwi, Robotics Toolbox (Peter Corke)
-* IMU, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers, Debot (educational robot)
+<br>
+<img src="https://img.shields.io/badge/Fritzing-D2262B?style=flat-square" height="25" alt="Fritzing" /> &nbsp;
+<img src="https://img.shields.io/badge/Wokwi-1279ce?style=flat-square" height="25" alt="Wokwi" /> &nbsp;
+<img src="https://img.shields.io/badge/Robotics_Toolbox_(Peter_Corke)-e25f05?style=flat-square" height="25" alt="Robotics Toolbox" /> &nbsp;
+<img src="https://img.shields.io/badge/IMU_Sensors-4A4A4A?style=flat-square" height="25" alt="IMU" /> &nbsp;
+<img src="https://img.shields.io/badge/NEMA_17_Steppers-4A4A4A?style=flat-square" height="25" alt="NEMA 17 Steppers" /> &nbsp;
+<img src="https://img.shields.io/badge/Servos_(MG996R,_MG995,_FS5115M)-4A4A4A?style=flat-square" height="25" alt="Servos" /> &nbsp;
+<img src="https://img.shields.io/badge/TMC2209_/_A4988_Drivers-4A4A4A?style=flat-square" height="25" alt="Motor Drivers" /> &nbsp;
+<img src="https://img.shields.io/badge/Debot_(Educational)-4A4A4A?style=flat-square" height="25" alt="Debot" />
 
 **Robotics & Control:**
 <br>
@@ -118,10 +125,17 @@
 <img src="https://img.shields.io/badge/PID_Control-00599C?style=flat-square" height="25" alt="PID Control" /> &nbsp;
 <img src="https://img.shields.io/badge/Parameter_Identification-00599C?style=flat-square" height="25" alt="Parameter Identification" /> &nbsp;
 <img src="https://img.shields.io/badge/Sim--to--Real_Validation-00599C?style=flat-square" height="25" alt="Sim-to-Real Validation" />
-<img src="https://img.shields.io/badge/Debot_Robot-4A4A4A?style=for-the-badge" height="35" title="Debot Educational Robot" alt="Debot" /> &nbsp;
 
 **Manufacturing & Prototyping:**
-* Silicone Casting, Tendon-Driven Routing, 3D Printing (Bambu Lab, Cura, PLA/TPU), CNC Machining, Laser Cutting, Manual Lathe, Composite Fabrication (Epoxy-reinforced fiberglass via ASTM standards)
+<br>
+<img src="https://img.shields.io/badge/Silicone_Casting-D35400?style=flat-square" height="25" alt="Silicone Casting" /> &nbsp;
+<img src="https://img.shields.io/badge/Tendon--Driven_Routing-D35400?style=flat-square" height="25" alt="Tendon-Driven Routing" /> &nbsp;
+<img src="https://img.shields.io/badge/3D_Printing_(Bambu_Lab,_Cura)-D35400?style=flat-square" height="25" alt="3D Printing" /> &nbsp;
+<img src="https://img.shields.io/badge/PLA_/_TPU-D35400?style=flat-square" height="25" alt="PLA / TPU" /> &nbsp;
+<img src="https://img.shields.io/badge/CNC_Machining-D35400?style=flat-square" height="25" alt="CNC Machining" /> &nbsp;
+<img src="https://img.shields.io/badge/Laser_Cutting-D35400?style=flat-square" height="25" alt="Laser Cutting" /> &nbsp;
+<img src="https://img.shields.io/badge/Manual_Lathe-D35400?style=flat-square" height="25" alt="Manual Lathe" /> &nbsp;
+<img src="https://img.shields.io/badge/Composite_Fabrication_(ASTM)-D35400?style=flat-square" height="25" alt="Composite Fabrication" />
 
 ---
 
