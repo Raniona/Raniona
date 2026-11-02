@@ -83,16 +83,32 @@
 <hr>
 ---
 
-### 🎮 Multi-Mode Arcade Console & Electronics Tester
-<a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Hardware Projects"></a>
+<div align="center">
+  <h3>🎮 Multi-Mode Arcade Console & Electronics Tester</h3>
+  <p><em>Hardware Prototyping & Embedded Systems</em></p>
 
-**Skills:** `ISO Standards` `Embedded C` `Systems Architecture` `CATIA V5`
+  <!-- Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/Embedded_C-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/-Arduino_Mega-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino Mega" />
+  <img src="https://img.shields.io/badge/CAD-CATIA_V5-blue" alt="CATIA V5" />
+  <img src="https://img.shields.io/badge/Standards-ISO-lightgrey" alt="ISO Standards" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Replace src with your actual GitHub image links -->
+  <img src="link_to_arcade_console_image.jpg" width="48%" alt="Pixel Pioneers Arcade Console" />
+  <img src="link_to_shaking_table_or_hoist_image.jpg" width="48%" alt="Hardware Prototyping Projects" />
+</div>
+
+<br>
 
 **What I did:**
-* Designed a single-axis vibration platform ("Electronic Shaking Table") aligned with ISO standards in CATIA V5 for rigorous electronics testing.
-* Built a custom arcade console featuring a multi-mode Simon game powered by an Arduino Mega inside a custom-designed chassis.
-* Designed and validated a functional mini-hydraulic scissor lift hoist prototype utilizing PLA tracks and engineering drawing packages.
-<br clear="both"/>
+- Engineered the "Pixel Pioneers" custom arcade console featuring single and two-player game modes including Memory Race, Coordination Test, and Fastest Reaction. 
+- Programmed the game logic in Embedded C using an Arduino Mega 2560, integrating a 20x4 I2C LCD for user feedback, push buttons, and non-blocking `millis()` interval checks for strict time-sensitive gameplay.
+- Modeled the ergonomic physical structure and component layout of the arcade console in CATIA V5 prior to physical assembly.
+<hr>
 
 ---
 
