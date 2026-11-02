@@ -123,18 +123,11 @@
   <img src="https://img.shields.io/badge/-Arduino_Mega-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino Mega" />
   <img src="https://img.shields.io/badge/CAD-CATIA_V5-blue" alt="CATIA V5" />
 </div>
-<br>
-<div align="center">
-  <img src="assets/Simon Game.png" width="55%" alt="Pixel Pioneers Arcade Console" />
-</div>
-<br>
 
 **What I did:**
-- Engineered the "Pixel Pioneers" custom arcade console featuring single and two-player game modes including Memory Race, Coordination Test, and Fastest Reaction[cite: 195, 200, 216]. 
-- Programmed the game logic in Embedded C using an Arduino Mega 2560, integrating a 20x4 I2C LCD for user feedback, push buttons, and non-blocking `millis()` interval checks for strict time-sensitive gameplay[cite: 202, 203, 208, 215].
+- Engineered the custom arcade console featuring single and two-player game modes including Memory Race, Coordination Test, and Fastest Reaction. 
+- Programmed the game logic in Embedded C using an Arduino Mega 2560, integrating a 20x4 I2C LCD for user feedback, push buttons, and non-blocking `millis()` interval checks for strict time-sensitive gameplay.
 - Modeled the ergonomic physical structure and component layout of the arcade console in CATIA V5 prior to physical assembly[cite: 220].
-- Designed a single-axis vibration platform ("Electronic Shaking Table") aligned with ISO standards in CATIA V5 for rigorous electronics testing.
-- Designed and validated a functional mini-hydraulic scissor lift hoist prototype utilizing PLA tracks and engineering drawing packages.
 
 <hr>
 
