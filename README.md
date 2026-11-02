@@ -74,15 +74,12 @@
 
 <br>
 
-A 4-DOF PRRR SCARA robotic palletizer engineered for tabletop manufacturing environments. Developed under strict spatial and budgetary constraints, this system integrates custom vibration-dampening structures with deterministic multi-axis control.
-
-#### ⚙️ Technical Highlights
-* **Control Architecture:** Designed and deployed a Finite State Machine (FSM) in C++ on a centralized Arduino Mega control shield for precise trajectory execution.
-* **Structural Engineering:** Mitigated operational vibrations utilizing a 7mm CNC-machined MDF base combined with custom 3D-printed PLA+ linkages, validated through extensive Finite Element Analysis (FEA).
-* **Kinematics & Simulation:** Formulated mathematical models to simulate the PRRR manipulator’s workspace, optimizing joint movements prior to physical fabrication.
-* **Project Leadership:** Directed hardware integration, physical transmission design, and end-to-end technical documentation. 
-
-*Collaborators: Omar Mohamed, Mohamed Hossam, Abdelaziz Ashraf, Zeyad Tamer*
+**What I did:**
+- Engineered a 4-DOF P3R SCARA robotic palletizer for tabletop manufacturing under strict spatial and budget constraints.
+- Developed a C++ Finite State Machine (FSM) on an Arduino Mega for deterministic multi-axis trajectory control.
+- Dampened operational vibrations using a 7mm CNC-machined MDF base and 3D-printed PLA+ linkages, validated via FEA.
+- Simulated the manipulator’s kinematic workspace to optimize joint movements prior to physical fabrication.
+- Led hardware integration and technical documentation, securing 1st Place Overall and 1st Place Technical Documentation.
 <hr>
 ---
 
