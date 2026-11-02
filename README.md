@@ -21,17 +21,18 @@
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Mechatronics Engineering Projects
 
-### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand 
+### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand (Ongoing Individual Thesis Research)
 <a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Robotic Hand Prototype"></a>
 
-**Skills:** `Silicone Casting` `Tendon-Driven Actuation` `Biomimetics` `Sim-to-Real` `Embedded C`
+**Skills:** `Yale OpenHand Architecture` `Tactile Feedback Control` `Biomimetics` `Sim-to-Real Validation` `Silicon Casting` `3D Printing` `Robotic Arm Integration` 
 
-**What I did:**
-* Engineered a biomimetic soft-rigid manipulator for a senior graduation research project, focusing on sim-to-real manipulation and grasping mechanics.
-* Designed and manufactured custom PLA 3D-printed molds for silicone casting to create soft digit structures.
-* Integrated MG996R servo feedback motors with tactile sensing arrays to close the feedback loop for delicate object handling.
+**What I'm doing:**
+* Engineering a biomimetic soft-rigid manipulator intended for academic publication, specifically designed for safe, adaptive physical manipulation in dynamic, unstructured environments.
+* Adapting the Yale OpenHand Model O (PF and PP) kinematics to design a novel control system that maximizes payload capacity and shape-conforming abilities for complex grasps.
+* Innovating local manufacturing in Egypt to achieve a highly capable, budget-friendly prototype for under 5,000 EGP.
+* Integrating tactile sensing arrays and servo actuators with an ESP32 microcontroller to close the real-time control loop.
 <br clear="both"/>
 
 ---
@@ -47,6 +48,18 @@
 * Managing comprehensive technical documentation for the research publication, detailing mathematical modeling, controller tuning, and real hardware validation[cite: 5].
 <br clear="both"/>
 ---
+### 🔍 5-DOF Robotic Quality-Inspection & Sorting System
+<a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Inspection Robot"></a>
+
+**Skills:** `OpenCV` `ESP32-CAM` `Articulated Kinematics` `Python` `System Integration`
+
+**What I did:**
+* Led Capstone Group in developing an automated quality-control and sorting production line.
+* Designed an articulated servo-driven manipulator mounted on a linear rail for dynamic workspace reach.
+* Integrated an ESP32-CAM vision system utilizing OpenCV to perform automated bore-angle inspections on manufactured parts before sorting.
+<br clear="both"/>
+
+---
 
 ### 🏭 NexUS Autonomous Tabletop SCARA Robotic Palletizer
 <a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="NexUS SCARA Robot"></a>
@@ -57,19 +70,6 @@
 * Designed, manufactured, and validated a PRRR 4-DOF SCARA palletizer, winning **1st Place Overall** and **1st Place in Technical Documentation** in university competition.
 * Developed the mechanical transmission utilizing laser-cut 7mm MDF, 3D-printed PLA+ linkages, and a T8 lead screw driven by a NEMA 17 stepper.
 * Engineered a custom single-layer KiCad PCB expansion shield to interface hardware with an embedded C++ Finite State Machine architecture.
-<br clear="both"/>
-
----
-
-### 🔍 5-DOF Robotic Quality-Inspection & Sorting System
-<a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Inspection Robot"></a>
-
-**Skills:** `OpenCV` `ESP32-CAM` `Articulated Kinematics` `Python` `System Integration`
-
-**What I did:**
-* Led Capstone Group in developing an automated quality-control and sorting production line.
-* Designed an articulated servo-driven manipulator mounted on a linear rail for dynamic workspace reach.
-* Integrated an ESP32-CAM vision system utilizing OpenCV to perform automated bore-angle inspections on manufactured parts before sorting.
 <br clear="both"/>
 
 ---
