@@ -1,4 +1,4 @@
-# Rania Asaad Abdallah Fares
+# Rania Fares
 **1st Place Mechanical & Mechatronics Engineering (GPA:4.43/4.50) | Prospective Graduate Student (July 2027)**
 
 * 🎓 Senior Engineering Student at the University of Hertfordshire (UH-GAF) (a UK university in Egypt), graduating in July 2027.
