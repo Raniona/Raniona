@@ -78,6 +78,24 @@
 
 ---
 
+### 🧮 Computational Engineering Mathematics & Bio-Signal Simulations
+<a href="LINK_TO_REPO_OR_PAPER"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="120" align="right" alt="MATLAB"></a>
+
+**Skills:** 
+<img src="https://img.shields.io/badge/MATLAB-e25f05?style=flat-square&logo=mathworks&logoColor=white" height="22"> 
+<img src="https://img.shields.io/badge/Numerical_Integration_(RK4,_ODE45)-00599C?style=flat-square" height="22"> 
+<img src="https://img.shields.io/badge/Symbolic_Math_(Laplace,_Fourier)-00599C?style=flat-square" height="22"> 
+<img src="https://img.shields.io/badge/Statistical_Modeling-00599C?style=flat-square" height="22">
+
+**What I did:**
+- 🧠 **Cognitive Fatigue Stats:** Built vectorized algorithms for IQR outlier detection and bivariate correlation to analyze sleep/stress impacts on Psychomotor Vigilance Task (PVT) reaction times[cite: 15, 20, 32].
+- 🫀 **ECG Fourier Analysis:** Decomposed and reconstructed cardiac bio-signals, evaluating harmonic convergence and the Gibbs Phenomenon in high-frequency transients[cite: 26, 28, 30].
+- ⚙️ **Dynamic Systems:** Solved coupled damped harmonic oscillators ("Digital Spirographs"), benchmarking exact symbolic Laplace Transform derivations against numerical `ode45` solvers[cite: 32, 34, 36].
+- ⚡ **Neural Modeling:** Simulated Leaky Integrate-and-Fire (LIF) potentials and mapped cortical activation centers, validating the superior accuracy of Runge-Kutta 4 (RK4) over Euler's method[cite: 37, 41, 43].
+<br clear="both"/>
+
+---
+
 ## 🛠️ Technical Skills
 **CAD, FEA & CFD:**
 <br>
