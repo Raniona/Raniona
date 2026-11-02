@@ -33,8 +33,8 @@
 * Innovating local manufacturing in Egypt to achieve a highly capable, budget-friendly prototype for under 5,000 EGP.
 * Integrating tactile sensing arrays and servo actuators with an ESP32 microcontroller to close the real-time control loop.
 <br clear="both"/>
----
 
+---
 ### 🚙 Vision-Guided Inverted-Tricycle Mobile Robot with Active Suspension (Ongoing Research)
 <a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Mobile Robot Prototype"></a>
 
