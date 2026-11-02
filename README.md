@@ -2,7 +2,7 @@
 **1st Place Mechanical & Mechatronics Engineering (GPA:4.43/4.50) | Prospective Graduate Student (July 2027)**
 
 * 🎓 Senior Engineering Student at the University of Hertfordshire (UH-GAF) (a UK university in Egypt), graduating in July 2027.
-* ⚙️ Integrating mechanical design, intelligent control, and robotics through hands-on electromechanical prototyping.
+* ⚙️ Integrating mechanical design, intelligent control, and robotics through electromechanical prototyping.
 * 🧬  Biomimetic designs to engineer innovative solutions for complex medical and industrial challenges.
 * 🎯 Actively seeking 2027 research-focused Master's programs in Robotics, Mechatronics, Systems & Control, and Neuroengineering.
 
@@ -23,7 +23,7 @@
 ## 🚀 Mechatronics Engineering Projects
 
 ### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand (Ongoing Individual Thesis Research)
-<a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Robotic Hand Prototype"></a>
+<a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Robotic Hand CAD"></a>
 
 **Skills:** `Yale OpenHand Architecture` `Tactile Feedback Control` `Biomimetics` `Sim-to-Real Validation` `Silicon Casting` `3D Printing` `Robotic Arm Integration` 
 
