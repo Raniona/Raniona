@@ -40,7 +40,7 @@
 ---
 
 ### 🔍 5-DOF Vision-Guided P4R Robotic Arm for Assembly & Lab Automation (Ongoing) 
-<a href="LINK_TO_REPO"><img src="Robotic Arm.jpeg" width="300" align="right" alt="5-DOF P4R Robotic Arm"></a>
+<a href="LINK_TO_REPO"><img src="assets/Robotic Arm.jpeg" width="300" align="right" alt="5-DOF P4R Robotic Arm"></a>
 
 **Skills:** `Forward/Inverse Kinematics (DH)` `Damped Least Squares IK` `OpenCV` `ESP32-CAM` `Python`
 
@@ -53,17 +53,37 @@
 
 ---
 
-### 🏭 NexUS Autonomous Tabletop SCARA Robotic Palletizer
-<a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="NexUS SCARA Robot"></a>
+<div align="center">
+  <h3>🏆 Autonomous Robotic Palletizer (NexUS)</h3>
+  <p><em>1st Place Overall & 1st Place Technical Documentation</em></p>
 
-**Skills:** `CATIA V5` `KiCad EDA` `C++ FSM Architecture` `Kinematics` `VDI 2206`
+  <!-- Tech Stack Badges -->
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Arduino_Mega-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino Mega" />
+  <img src="https://img.shields.io/badge/CAD-FEA_%26_Kinematics-orange" alt="CAD/FEA" />
+  <img src="https://img.shields.io/badge/Manufacturing-3D_Printing_%7C_CNC-lightgrey" alt="Manufacturing" />
+</div>
 
-**What I did:**
-* Designed, manufactured, and validated a PRRR 4-DOF SCARA palletizer, winning **1st Place Overall** and **1st Place in Technical Documentation** in university competition.
-* Developed the mechanical transmission utilizing laser-cut 7mm MDF, 3D-printed PLA+ linkages, and a T8 lead screw driven by a NEMA 17 stepper.
-* Engineered a custom single-layer KiCad PCB expansion shield to interface hardware with an embedded C++ Finite State Machine architecture.
-<br clear="both"/>
+<br>
 
+<div align="center">
+  <!-- Replace src with your actual GitHub image links -->
+  <img src="link_to_final_hardware_image.jpg" width="48%" alt="NexUS Hardware Assembly" />
+  <img src="link_to_cad_or_kinematic_sim.gif" width="48%" alt="PRRR SCARA Kinematic Simulation" />
+</div>
+
+<br>
+
+A 4-DOF PRRR SCARA robotic palletizer engineered for tabletop manufacturing environments. Developed under strict spatial and budgetary constraints, this system integrates custom vibration-dampening structures with deterministic multi-axis control.
+
+#### ⚙️ Technical Highlights
+* **Control Architecture:** Designed and deployed a Finite State Machine (FSM) in C++ on a centralized Arduino Mega control shield for precise trajectory execution.
+* **Structural Engineering:** Mitigated operational vibrations utilizing a 7mm CNC-machined MDF base combined with custom 3D-printed PLA+ linkages, validated through extensive Finite Element Analysis (FEA).
+* **Kinematics & Simulation:** Formulated mathematical models to simulate the PRRR manipulator’s workspace, optimizing joint movements prior to physical fabrication.
+* **Project Leadership:** Directed hardware integration, physical transmission design, and end-to-end technical documentation. 
+
+*Collaborators: Omar Mohamed, Mohamed Hossam, Abdelaziz Ashraf, Zeyad Tamer*
+<hr>
 ---
 
 ### 🎮 Multi-Mode Arcade Console & Electronics Tester
