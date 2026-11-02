@@ -1,5 +1,5 @@
 # Rania Asaad Abdallah Fares
-**Mechanical & Mechatronics Engineering | Prospective Graduate Student (July 2027)**
+**1st Place Mechanical & Mechatronics Engineering (GPA:4.43/4.50) | Prospective Graduate Student (July 2027)**
 
 * 🎓 Senior Engineering Student at the University of Hertfordshire (UH-GAF), graduating in July 2027.
 * ⚙️ Integrating mechanical design, intelligent control, and robotics through hands-on electromechanical prototyping.
