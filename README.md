@@ -23,7 +23,7 @@
 ## 🚀 Mechatronics Engineering Projects
 
 ### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand (Ongoing Individual Thesis Research)
-<a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Robotic Hand CAD"></a>
+<a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.png" width="300" align="right" alt="Robotic Hand CAD"></a>
 
 **Skills:** `Yale OpenHand Architecture` `Tactile Feedback Control` `Biomimetics` `Sim-to-Real Validation` `Silicon Casting` `3D Printing` `Robotic Arm Integration` 
 
