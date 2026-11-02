@@ -10,43 +10,6 @@
 
 ---
 
-## 🛠️ Technical Arsenal
-
-## 🛠️ Technical Arsenal
-
-**CAD, FEA & CFD:**
-<br>
-<img src="https://cdn.simpleicons.org/dassaultsystemes/1438CC" height="35" title="CATIA V5" alt="CATIA" /> &nbsp;
-<img src="https://cdn.simpleicons.org/solidworks/E32224" height="35" title="SolidWorks" alt="SolidWorks" /> &nbsp;
-<img src="https://cdn.simpleicons.org/autodesk/0696D7" height="35" title="Fusion 360 & AutoCAD" alt="Autodesk" /> &nbsp;
-<img src="https://cdn.simpleicons.org/ansys/F6A01A" height="35" title="ANSYS Workbench & Fluent" alt="ANSYS" /> 
-
-**Programming & Software:**
-<br>
-<img src="https://cdn.simpleicons.org/python/3776AB" height="35" title="Python" alt="Python" /> &nbsp;
-<img src="https://cdn.simpleicons.org/numpy/013243" height="35" title="NumPy" alt="NumPy" /> &nbsp;
-<img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="35" title="SciPy" alt="SciPy" /> &nbsp;
-<img src="https://cdn.simpleicons.org/mathworks/e25f05" height="35" title="MATLAB & Simulink" alt="MATLAB" /> &nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="35" title="C++" alt="C++" /> &nbsp;
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="35" title="OpenCV" alt="OpenCV" /> &nbsp;
-<img src="https://cdn.simpleicons.org/latex/008080" height="35" title="LaTeX" alt="LaTeX" />
-
-**Electronics & Microcontrollers:**
-<br>
-<img src="https://cdn.simpleicons.org/kicad/314CB6" height="35" title="KiCad EDA" alt="KiCad" /> &nbsp;
-<img src="https://cdn.simpleicons.org/arduino/00979D" height="35" title="Arduino (Mega 2560 & UNO)" alt="Arduino" /> &nbsp;
-<img src="https://cdn.simpleicons.org/espressif/E7352C" height="35" title="ESP32 & ESP32-CAM" alt="ESP32" /> 
-
-**Hardware & Simulation Components:**
-* Fritzing, Proteus, Wokwi, PyBullet, Robotics Toolbox (Peter Corke)
-* IMU, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers, Debot (educational robot)
-
-**Robotics & Control:**
-* Forward/Inverse Kinematics (D-H parameters), Dynamics (Lagrangian), Trajectory Planning, State-Space Modeling, PID Control, System Parameter Identification, Sim-to-Real validation
-
-**Manufacturing & Prototyping:**
-* Silicone Casting, Tendon-Driven Routing, 3D Printing (Bambu Lab, Cura, PLA/TPU), CNC Machining, Laser Cutting, Manual Lathe, Composite Fabrication (Epoxy-reinforced fiberglass via ASTM standards)
-
 ## 🚀 Mechatronics Engineering Projects
 
 ### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand (Ongoing Individual Thesis Research)
@@ -112,6 +75,42 @@
 * Built a custom arcade console featuring a multi-mode Simon game powered by an Arduino Mega inside a custom-designed chassis.
 * Designed and validated a functional mini-hydraulic scissor lift hoist prototype utilizing PLA tracks and engineering drawing packages.
 <br clear="both"/>
+
+---
+
+## 🛠️ Technical Skills
+**CAD, FEA & CFD:**
+<br>
+<img src="https://cdn.simpleicons.org/dassaultsystemes/1438CC" height="35" title="CATIA V5" alt="CATIA" /> &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" height="35" title="SolidWorks" alt="SolidWorks" /> &nbsp;
+<img src="https://cdn.simpleicons.org/autodesk/0696D7" height="35" title="Fusion 360 & AutoCAD" alt="Autodesk" /> &nbsp;
+<img src="https://cdn.simpleicons.org/ansys/F6A01A" height="35" title="ANSYS Workbench & Fluent" alt="ANSYS" /> 
+
+**Programming & Software:**
+<br>
+<img src="https://cdn.simpleicons.org/python/3776AB" height="35" title="Python" alt="Python" /> &nbsp;
+<img src="https://cdn.simpleicons.org/numpy/013243" height="35" title="NumPy" alt="NumPy" /> &nbsp;
+<img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="35" title="SciPy" alt="SciPy" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="35" title="MATLAB & Simulink" alt="MATLAB" /> &nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="35" title="C++" alt="C++" /> &nbsp;
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="35" title="OpenCV" alt="OpenCV" /> &nbsp;
+<img src="https://cdn.simpleicons.org/latex/008080" height="35" title="LaTeX" alt="LaTeX" />
+
+**Electronics & Microcontrollers:**
+<br>
+<img src="https://cdn.simpleicons.org/kicad/314CB6" height="35" title="KiCad EDA" alt="KiCad" /> &nbsp;
+<img src="https://cdn.simpleicons.org/arduino/00979D" height="35" title="Arduino (Mega 2560 & UNO)" alt="Arduino" /> &nbsp;
+<img src="https://cdn.simpleicons.org/espressif/E7352C" height="35" title="ESP32 & ESP32-CAM" alt="ESP32" /> 
+
+**Hardware & Simulation Components:**
+* Fritzing, Proteus, Wokwi, PyBullet, Robotics Toolbox (Peter Corke)
+* IMU, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers, Debot (educational robot)
+
+**Robotics & Control:**
+* Forward/Inverse Kinematics (D-H parameters), Dynamics (Lagrangian), Trajectory Planning, State-Space Modeling, PID Control, System Parameter Identification, Sim-to-Real validation
+
+**Manufacturing & Prototyping:**
+* Silicone Casting, Tendon-Driven Routing, 3D Printing (Bambu Lab, Cura, PLA/TPU), CNC Machining, Laser Cutting, Manual Lathe, Composite Fabrication (Epoxy-reinforced fiberglass via ASTM standards)
 
 ---
 
