@@ -90,11 +90,10 @@
 
 ## 🔬 Research & Professional Experience
 
-* **Summer Research Intern** | *Smart Engineering Systems Research Center (SESC), Nile University* 
 * **1st Place Academic Paper** | Authored a literature review on the cognitive impacts of AI pedagogical agents in digital education, winning 1st out of 200 student projects.
 * **Supply Chain Material Handling Intern** | *General Motors Egypt* — Led an intern team to execute GMOS time studies, validate 20% of Optra component process data, and map material flow logic.
 * **Electrical Design Engineering Intern** | *MCV (Manufacturing Commercial Vehicles)* — Traced signal flows across distributed bus electrical systems and diagnosed ECU logic gate faults.
-* **Certifications:** WorldQuant University Applied Data Science Lab, AIGPE FMEA Specialist, Maker Diploma (Fab Lab Egypt).
+* **Certifications:** AIGPE FMEA Specialist, Maker Diploma (Fab Lab Egypt).
 
 ---
 <div align="center">
