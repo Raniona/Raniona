@@ -101,7 +101,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="assets/Schematic.png" width="45%" alt="NexUS Schematic 1" />
+  <img src="assets/Nexus Arm.jpeg" width="45%" alt="NexUS Full CAD" />
   <img src="assets/Schematic.png" width="45%" alt="NexUS Schematic 2" />
 </div>
 <br>
