@@ -37,10 +37,7 @@
 ---
 ### 🚙 Vision-Guided Inverted-Tricycle Mobile Robot with Active Suspension (Ongoing Research)
 
-<p align="center">
-  <img src="LINK_TO_IMAGE_1.jpg" width="48%" alt="Mobile Robot Prototype 1">
-  <img src="LINK_TO_IMAGE_2.jpg" width="48%" alt="Mobile Robot Prototype 2">
-</p>
+<a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Mobile Robot Prototype"></a>
 
 **Skills:** `MATLAB` `Mathematical, Physical, Data-Driven Modeling` `Control Theory (PID)` `Image Processing` `Technical Documentation`
 
