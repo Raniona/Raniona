@@ -1,7 +1,7 @@
 # Rania Asaad Abdallah Fares
 **1st Place Mechanical & Mechatronics Engineering (GPA:4.43/4.50) | Prospective Graduate Student (July 2027)**
 
-* 🎓 Senior Engineering Student at the University of Hertfordshire (UH-GAF) (UK university in Egypt), graduating in July 2027.
+* 🎓 Senior Engineering Student at the University of Hertfordshire (UH-GAF) (a UK university in Egypt), graduating in July 2027.
 * ⚙️ Integrating mechanical design, intelligent control, and robotics through hands-on electromechanical prototyping.
 * 🧬  Biomimetic designs to engineer innovative solutions for complex medical and industrial challenges.
 * 🎯 Actively seeking 2027 research-focused Master's programs in Robotics, Mechatronics, Systems & Control, and Neuroengineering.
@@ -36,6 +36,7 @@
 <br clear="both"/>
 
 ---
+
 ### 🚙 Vision-Guided Inverted-Tricycle Mobile Robot with Active Suspension (Ongoing Research)
 <a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Mobile Robot Prototype"></a>
 
@@ -47,7 +48,9 @@
 * Leading the programming and control systems architecture, exclusively utilizing MATLAB and embedded systems (bypassing ROS) to process RGB camera data and execute robust speed and trajectory tracking[cite: 5]. 
 * Managing comprehensive technical documentation for the research publication, detailing mathematical modeling, controller tuning, and real hardware validation[cite: 5].
 <br clear="both"/>
+
 ---
+
 ### 🔍 5-DOF Robotic Quality-Inspection & Sorting System
 <a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Inspection Robot"></a>
 
