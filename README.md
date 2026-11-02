@@ -127,7 +127,7 @@
 **What I did:**
 - Engineered the custom arcade console featuring single and two-player game modes including Memory Race, Coordination Test, and Fastest Reaction. 
 - Programmed the game logic in Embedded C using an Arduino Mega 2560, integrating a 20x4 I2C LCD for user feedback, push buttons, and non-blocking `millis()` interval checks for strict time-sensitive gameplay.
-- Modeled the ergonomic physical structure and component layout of the arcade console in CATIA V5 prior to physical assembly[cite: 220].
+- Modeled the ergonomic physical structure and component layout of the arcade console in CATIA V5 prior to physical assembly.
 
 <hr>
 
