@@ -18,7 +18,6 @@
 * **Programming & Software:** Python (NumPy, SciPy, Matplotlib), MATLAB, Simulink, C++, OpenCV, LaTeX
 * **Manufacturing & Prototyping:** Silicone Casting, Tendon-Driven Routing, 3D Printing (Bambu Lab, Cura, PLA/TPU), CNC Machining, Laser Cutting, Manual Lathe, Composite Fabrication (Epoxy-reinforced fiberglass via ASTM standards)
 * **Microcontrollers & Hardware:** Arduino (Mega 2560 & UNO), ESP32, ESP32-CAM, IMU, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers, Debot (educational robot)
-
 ---
 
 ## 🚀 Mechatronics Engineering Projects
