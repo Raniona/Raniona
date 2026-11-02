@@ -39,15 +39,16 @@
 
 ---
 
-### 🔍 5-DOF Robotic Quality-Inspection & Sorting System
-<a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Inspection Robot"></a>
+### 🔍 5-DOF Vision-Guided P4R Robotic Arm for Assembly & Lab Automation (Ongoing) 
+<a href="LINK_TO_REPO"><img src="Robotic Arm.jpeg" width="300" align="right" alt="5-DOF P4R Robotic Arm"></a>
 
-**Skills:** `OpenCV` `ESP32-CAM` `Articulated Kinematics` `Python` `System Integration`
+**Skills:** `Forward/Inverse Kinematics (DH)` `Damped Least Squares IK` `OpenCV` `ESP32-CAM` `Python`
 
 **What I did:**
-* Led Capstone Group in developing an automated quality-control and sorting production line.
-* Designed an articulated servo-driven manipulator mounted on a linear rail for dynamic workspace reach.
-* Integrated an ESP32-CAM vision system utilizing OpenCV to perform automated bore-angle inspections on manufactured parts before sorting.
+- Developing a 5-DOF "P4R" (Prismatic-4-Revolute) robotic manipulator tailored for automated assembly and laboratory tube handling.
+- Designed the physical architecture by mounting a 4-DOF servo-driven articulated arm onto a DC motor linear slide, creating a redundant degree of freedom that expands the X-axis reachable workspace to 600 mm for dynamic lab setups.
+- Formulated the robot's Forward Kinematics using standard Denavit-Hartenberg (DH) parameters and implemented numerical Inverse Kinematics utilizing the Damped Least Squares (Levenberg-Marquardt) algorithm to stabilize joint updates near kinematic singularities.
+- Integrated an ESP32-CAM vision system utilizing OpenCV to perform object detection, pose estimation, and precise part alignment, enabling advanced vision-guided assembly and automated repetitive laboratory tasks like sample handling.
 <br clear="both"/>
 
 ---
@@ -88,10 +89,10 @@
 <img src="https://img.shields.io/badge/Statistical_Modeling-00599C?style=flat-square" height="22">
 
 **What I did:**
-- 🧠 **Cognitive Fatigue Stats:** Built vectorized algorithms for IQR outlier detection and bivariate correlation to analyze sleep/stress impacts on Psychomotor Vigilance Task (PVT) reaction times[cite: 15, 20, 32].
-- 🫀 **ECG Fourier Analysis:** Decomposed and reconstructed cardiac bio-signals, evaluating harmonic convergence and the Gibbs Phenomenon in high-frequency transients[cite: 26, 28, 30].
-- ⚙️ **Dynamic Systems:** Solved coupled damped harmonic oscillators ("Digital Spirographs"), benchmarking exact symbolic Laplace Transform derivations against numerical `ode45` solvers[cite: 32, 34, 36].
-- ⚡ **Neural Modeling:** Simulated Leaky Integrate-and-Fire (LIF) potentials and mapped cortical activation centers, validating the superior accuracy of Runge-Kutta 4 (RK4) over Euler's method[cite: 37, 41, 43].
+- 🧠 **Cognitive Fatigue Stats:** Built vectorized algorithms for IQR outlier detection and bivariate correlation to analyze sleep/stress impacts on Psychomotor Vigilance Task (PVT) reaction times.
+- 🫀 **ECG Fourier Analysis:** Decomposed and reconstructed cardiac bio-signals, evaluating harmonic convergence and the Gibbs Phenomenon in high-frequency transients.
+- ⚙️ **Dynamic Systems:** Solved coupled damped harmonic oscillators ("Digital Spirographs"), benchmarking exact symbolic Laplace Transform derivations against numerical `ode45` solvers.
+- ⚡ **Neural Modeling:** Simulated Leaky Integrate-and-Fire (LIF) potentials and mapped cortical activation centers, validating the superior accuracy of Runge-Kutta 4 (RK4) over Euler's method.
 <br clear="both"/>
 
 ---
