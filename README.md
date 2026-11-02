@@ -35,8 +35,18 @@
 <br clear="both"/>
 
 ---
-<img width="1178" height="604" alt="image" src="https://github.com/user-attachments/assets/806d7c4d-3657-45f1-9692-48908f9077a4" />
+### 🚙 Vision-Guided Inverted-Tricycle Mobile Robot with Active Suspension (Ongoing Research)
+<a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Mobile Robot Prototype"></a>
 
+**Skills:** `MATLAB` `Mathematical, Physical, Data-Driven Modeling` `Control Theory (PID)` `Image Processing` `Technical Documentation`
+
+**What I did:**
+* Co-authoring a research paper on a vision-based line-following robot, featuring a novel inverted "toktok" (auto-rickshaw) tricycle kinematic design with a rear caster wheel[cite: 5].
+* Integrating a custom suspension system utilizing a leadscrew and DC motor mechanism to manage payload variations (1.5 to 3.0 kg) and reject external disturbances on various floor types and slopes[cite: 5].
+* Leading the programming and control systems architecture, exclusively utilizing MATLAB and embedded systems (bypassing ROS) to process RGB camera data and execute robust speed and trajectory tracking[cite: 5]. 
+* Managing comprehensive technical documentation for the research publication, detailing mathematical modeling, controller tuning, and real hardware validation[cite: 5].
+<br clear="both"/>
+---
 
 ### 🏭 NexUS Autonomous Tabletop SCARA Robotic Palletizer
 <a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="NexUS SCARA Robot"></a>
