@@ -103,7 +103,6 @@
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="35" title="Arduino (Mega 2560 & UNO)" alt="Arduino" /> &nbsp;
 <img src="https://cdn.simpleicons.org/espressif/E7352C" height="35" title="ESP32 & ESP32-CAM" alt="ESP32" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="35" title="VS Code" alt="VS Code" /> &nbsp;
-<img src="https://cdn.simpleicons.org/kicad/314CB6" height="35" title="KiCad EDA" alt="KiCad" /> &nbsp;
 <img src="https://img.shields.io/badge/Proteus-00599C?style=for-the-badge" height="35" title="Proteus" alt="Proteus" /> &nbsp;
 
 **Hardware & Simulation Components:**
