@@ -1,25 +1,29 @@
 # Rania Asaad Abdallah Fares
 ** Mechanical & Mechatronics Engineering | Prospective Graduate Student (July 2027)**
 
-I am a senior engineering student at the University of Hertfordshire (UH-GAF) graduating in July 2027. My work bridges mechanical design, intelligent control, and robotics with a strong focus on hands-on electromechanical prototyping and biomimetics. I am actively seeking research-focused Master's programs in Robotics, Mechatronics, Systems & Control, and Neuroengineering. 
+* 🎓 Senior Engineering Student at the University of Hertfordshire (UH-GAF), graduating in July 2027.
+* ⚙️ Integrating mechanical design, intelligent control, and robotics through hands-on electromechanical prototyping.
+* 🧬  Biomimetic designs to engineer innovative solutions for complex medical and industrial challenges.
+* 🎯 Actively seeking 2027 research-focused Master's programs in Robotics, Mechatronics, Systems & Control, and Neuroengineering.
 
 📫 **Reach me at:** [rania.asaad.abdallah.fares@gmail.com] | [(https://www.linkedin.com/in/rania-fares-037860206/)]
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
-* **CAD, FEA & CFD:** CATIA V5, SolidWorks, Fusion 360, AutoCAD, ANSYS Workbench, ANSYS Fluent
-* **Electronics & Simulation:** KiCad EDA, Fritzing, Proteus, Wokwi
-* **Programming & Software:** Python, MATLAB, Simulink, C++, Arduino, OpenCV, LaTeX
-* **Manufacturing & Prototyping:** Silicone Casting, Tendon-Driven Routing, 3D Printing, CNC Machining, Laser Cutting, Manual Lathe
-* **Microcontrollers & Hardware:** Arduino (Mega 2560 & UNO), ESP32, ESP32-CAM, IMU, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers
+* **CAD, FEA & CFD:** CATIA V5, SolidWorks, Fusion 360, AutoCAD, ANSYS Workbench (including ACP for composite materials), ANSYS Fluent
+* **Robotics & Control:** Forward/Inverse Kinematics (D-H parameters), Dynamics (Lagrangian), Trajectory Planning, State-Space Modeling, PID Control, System Parameter Identification, Sim-to-Real validation
+* **Electronics & Simulation:** KiCad EDA, Fritzing, Proteus, Wokwi, PyBullet, Robotics Toolbox (Peter Corke)
+* **Programming & Software:** Python (NumPy, SciPy, Matplotlib), MATLAB, Simulink, C++, OpenCV, LaTeX
+* **Manufacturing & Prototyping:** Silicone Casting, Tendon-Driven Routing, 3D Printing (Bambu Lab, Cura, PLA/TPU), CNC Machining, Laser Cutting, Manual Lathe, Composite Fabrication (Epoxy-reinforced fiberglass via ASTM standards)
+* **Microcontrollers & Hardware:** Arduino (Mega 2560 & UNO), ESP32, ESP32-CAM, IMU, NEMA 17 Steppers, Servos (MG996R, MG995, FS5115M), TMC2209/A4988 Drivers, Debot (educational robot)
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand
+### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand 
 <a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="Robotic Hand Prototype"></a>
 
 **Skills:** `Silicone Casting` `Tendon-Driven Actuation` `Biomimetics` `Sim-to-Real` `Embedded C`
@@ -31,6 +35,8 @@ I am a senior engineering student at the University of Hertfordshire (UH-GAF) gr
 <br clear="both"/>
 
 ---
+<img width="1178" height="604" alt="image" src="https://github.com/user-attachments/assets/806d7c4d-3657-45f1-9692-48908f9077a4" />
+
 
 ### 🏭 NexUS Autonomous Tabletop SCARA Robotic Palletizer
 <a href="LINK_TO_REPO"><img src="LINK_TO_IMAGE.jpg" width="300" align="right" alt="NexUS SCARA Robot"></a>
@@ -51,7 +57,7 @@ I am a senior engineering student at the University of Hertfordshire (UH-GAF) gr
 **Skills:** `OpenCV` `ESP32-CAM` `Articulated Kinematics` `Python` `System Integration`
 
 **What I did:**
-* Led Capstone Group 11 in developing an automated quality-control and sorting production line.
+* Led Capstone Group in developing an automated quality-control and sorting production line.
 * Designed an articulated servo-driven manipulator mounted on a linear rail for dynamic workspace reach.
 * Integrated an ESP32-CAM vision system utilizing OpenCV to perform automated bore-angle inspections on manufactured parts before sorting.
 <br clear="both"/>
