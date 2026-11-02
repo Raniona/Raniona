@@ -141,10 +141,21 @@
 
 ## 🔬 Research & Professional Experience
 
-* **1st Place Academic Paper** | Authored a literature review on the cognitive impacts of AI pedagogical agents in digital education, winning 1st out of 200 student projects.
-* **Supply Chain Material Handling Intern** | *General Motors Egypt* — Led an intern team to execute GMOS time studies, validate 20% of Optra component process data, and map material flow logic.
-* **Electrical Design Engineering Intern** | *MCV (Manufacturing Commercial Vehicles)* — Traced signal flows across distributed bus electrical systems and diagnosed ECU logic gate faults.
-* **Certifications:** AIGPE FMEA Specialist, Maker Diploma (Fab Lab Egypt).
+## 🔬 Research & Professional Experience
+
+🏆 **1st Place Academic Paper** | <img src="https://img.shields.io/badge/1st_Place-Out_of_200_Projects-FFD700?style=flat-square" height="22">
+> Authored a literature review on the cognitive impacts of AI pedagogical agents in digital education.
+
+🏭 **Supply Chain Material Handling Intern** | <img src="https://img.shields.io/badge/General_Motors-Egypt-10529A?style=flat-square" height="22">
+> Led an intern team to execute GMOS time studies, validate 20% of Optra component process data, and map material flow logic.
+
+⚡ **Electrical Design Engineering Intern** | <img src="https://img.shields.io/badge/MCV-Commercial_Vehicles-D32F2F?style=flat-square" height="22">
+> Traced signal flows across distributed bus electrical systems and diagnosed ECU logic gate faults.
+
+🏅 **Professional Certifications:**
+<br>
+<img src="https://img.shields.io/badge/AIGPE-FMEA_Specialist-4CAF50?style=flat-square" height="25"> &nbsp;
+<img src="https://img.shields.io/badge/Fab_Lab_Egypt-Maker_Diploma-FF9800?style=flat-square" height="25">
 
 ---
 <div align="center">
