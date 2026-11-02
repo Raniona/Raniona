@@ -6,7 +6,7 @@
 * 🧬  Biomimetic designs to engineer innovative solutions for complex medical and industrial challenges.
 * 🎯 Actively seeking 2027 research-focused Master's programs in Robotics, Mechatronics, Systems & Control, and Neuroengineering.
 
-📫 **Reach me at:** [rania.asaad.abdallah.fares@gmail.com] | [https://www.linkedin.com/in/rania-fares-037860206/]
+📫 **Reach me at:** [rania.asaad.abdallah.fares@gmail.com](mailto:rania.asaad.abdallah.fares@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rania-fares-037860206/)
 
 ---
 
@@ -23,15 +23,15 @@
 ## 🚀 Mechatronics Engineering Projects
 
 ### 🦾 Tactile-Integrated Hybrid Soft-Rigid Robotic Hand (Ongoing Individual Thesis Research)
-<a href="LINK_TO_REPO_OR_PAPER"><img src="LINK_TO_IMAGE.png" width="300" align="right" alt="Robotic Hand CAD"></a>
+<a href="LINK_TO_REPO_OR_PAPER"><img src="assets/Robotic Hand CAD.png" width="300" align="right" alt="Robotic Hand CAD"></a>
 
 **Skills:** `Yale OpenHand Architecture` `Tactile Feedback Control` `Biomimetics` `Sim-to-Real Validation` `Silicon Casting` `3D Printing` `Robotic Arm Integration` 
 
 **What I'm doing:**
-* Engineering a biomimetic soft-rigid manipulator intended for academic publication, specifically designed for safe, adaptive physical manipulation in dynamic, unstructured environments.
-* Adapting the Yale OpenHand Model O (PF and PP) kinematics to design a novel control system that maximizes payload capacity and shape-conforming abilities for complex grasps.
-* Innovating local manufacturing in Egypt to achieve a highly capable, budget-friendly prototype for under 5,000 EGP.
-* Integrating tactile sensing arrays and servo actuators with an ESP32 microcontroller to close the real-time control loop.
+- Engineering a biomimetic soft-rigid manipulator intended for academic publication, specifically designed for safe, adaptive physical manipulation in dynamic, unstructured environments.
+- Adapting the Yale OpenHand Model O (PF and PP) kinematics to design a novel control system that maximizes payload capacity and shape-conforming abilities for complex grasps.
+- Innovating local manufacturing in Egypt to achieve a highly capable, budget-friendly prototype for under 5,000 EGP.
+- Integrating tactile sensing arrays and servo actuators with an ESP32 microcontroller to close the real-time control loop.
 <br clear="both"/>
 
 ---
