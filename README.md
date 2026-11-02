@@ -139,7 +139,6 @@
 
 ---
 
-## 🔬 Research & Professional Experience
 
 ## 🔬 Research & Professional Experience
 
