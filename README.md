@@ -211,7 +211,27 @@
   <img src="https://img.shields.io/badge/Laser_Cutting-D35400?style=flat" height="25" alt="Laser Cutting" /> &nbsp;
   <img src="https://img.shields.io/badge/Composite_Fabrication-D35400?style=flat" height="25" alt="Composite Fabrication" />
 </div>
+<br>
+<hr>
 
+<div align="center">
+  <h3>📚 Literature Review: AI Pedagogical Agents in Digital Education</h3>
+  <p><em>1st Place Overall — Out of 200+ Projects</em></p>
+
+  <img src="https://img.shields.io/badge/Research-FFD700?style=flat" alt="Research" />
+  <img src="https://img.shields.io/badge/Evidence_Synthesis-00979D?style=flat" alt="Evidence Synthesis" />
+  <img src="https://img.shields.io/badge/Data_Analysis-orange?style=flat" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Academic_Writing-lightgrey?style=flat" alt="Academic Writing" />
+</div>
+<br>
+
+**What I did:**
+- Authored a first-place literature review evaluating the cognitive and educational impacts of AI pedagogical agents in digital higher education.
+- Synthesized evidence from **30+ peer-reviewed sources**, identifying how AI-based learning tools influence student motivation, engagement, academic performance, and learning outcomes.
+- Developed context-sensitive recommendations for integrating AI pedagogical agents into higher-education environments while addressing implementation risks and learner needs.
+- Presented evidence-based findings through structured academic writing, critical analysis, and data-informed interpretation.
+
+<hr>
 <hr>
 
 <div align="center">
